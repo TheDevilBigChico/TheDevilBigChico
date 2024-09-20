@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheDevilBigChico
 - 👀 I’m interested in programming, mainly Java and Python, but I'm gradually getting to know as many languages ​​as possible.
-- 🌱 I’m currently learning Python and Java, I recently completed a programming logic course.
+- 🌱 I’m currently learning Python, Java and Cobol, I recently completed a programming logic course.
 - 💞️ I’m looking to collaborate on front-end and back-end to gain experience and expertise in these areas.
 - 📫 How to reach me alexandrefrancisco14042001@gmail.com or through the links in my profile
 - 😄 Pronouns: He / Him
